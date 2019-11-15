@@ -1,0 +1,20 @@
+{
+  "name": "key-value-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr3tori4n/keyValueStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pr3tori4n/keyValueStore/issues"
+  },
+  "homepage": "https://github.com/pr3tori4n/keyValueStore#readme"
+}
