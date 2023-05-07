@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/pr3tori4n/keyValueStore#readme",
   "devDependencies": {
-    "serve": "^11.2.0"
+    "serve": "^14.2.0"
   },
   "dependencies": {}
 }
